@@ -1,0 +1,4 @@
+This is chapter2. This file contains all the things 
+related to chapter 2 of book.
+
+Enjoy reading chapter 2.
